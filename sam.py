@@ -5,4 +5,4 @@ if x == 'yes':
     print("asdfg")
 else:
     print("Bye")
-    
+    print("SAYONARA")
