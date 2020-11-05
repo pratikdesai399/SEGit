@@ -3,7 +3,7 @@ x = input("yes or no")
 if x == 'yes':
     print("Hello")
     print("asdfg")
-    prin("DUMMY BRANCH")
+    prin("DUMMY")
 else:
     print("Bye")
     print("SAYONARA")
